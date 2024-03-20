@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **HTML, XHTML, XML, CSS, SCSS, Bootstrap, Javascript, JQuery, PHP, Linux**
 
-- 👨‍💻 All of my projects are available at [#update later](#update later)
+- 👨‍💻 All of my projects are available at #update later
 
-- 📝 I regularly write articles on [#(update later)](#(update later))
+- 📝 I regularly write articles on #update later
 
 - 📫 How to reach me **arkarhein.me@gmail.com**
 
