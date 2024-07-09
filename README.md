@@ -1,27 +1,42 @@
-<h1 align="center">Hi 👋, I'm Arkar Hein</h1>
-<h3 align="center">frontend developer from Myanmar.</h3>
+# Arkar Hein - Web Developer
 
-- 🌱 I’m currently learning **HTML, XHTML, XML, CSS, SCSS, Bootstrap, Javascript, JQuery, PHP, Linux**
+## Introduction
+Hello! I'm Arkar Hein, a dedicated web developer with a strong foundation in front-end technologies and currently expanding my skill set to become a full-stack developer. My journey includes mastering various tools and technologies, with the ultimate goal of gaining expertise in both front-end and back-end development. Next year, I plan to pursue a Computer Science diploma to further solidify my knowledge and skills.
 
-- 📫 How to reach me **arkarhein.me@gmail.com**
+## Table of Contents
+1. [Skills and Technologies](#skills-and-technologies)
+2. [Current Learning Path](#current-learning-path)
+3. [Future Goals](#future-goals)
+4. [Contact Information](#contact-information)
 
+## Skills and Technologies
+### Front-End Development
+- **HTML**
+- **CSS**
+  - Advanced CSS
+  - Tailwind CSS (currently learning)
+- **JavaScript**
+  - Advanced JavaScript (pre ES-6)
+- **jQuery**
+- **Bootstrap**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="40" height="40"/> </a>  
-</p>  
-  
-  
-  
- 
-  
+### Back-End Development
+- **PHP** (currently learning)
+- **Laravel** (currently learning)
+- **MySQL** (currently learning)
+
+## Current Learning Path
+I'm actively learning the following technologies to enhance my back-end development skills:
+- MySQL
+- Tailwind CSS
+- PHP
+- Laravel
+
+## Future Goals
+- Achieve proficiency in both front-end and back-end development to become a full-stack developer.
+- Enroll in and complete a Computer Science diploma program next year to deepen my theoretical and practical understanding of computer science.
+
+## Contact Information
+Feel free to reach out to me for any web development projects or collaboration opportunities:
+
+- **Email:** [arkerhein44@gmail.com]
