@@ -14,11 +14,11 @@ Hello! I'm Arkar Hein, a dedicated web developer with a strong foundation in fro
 - **HTML**
 - **CSS**
   - Advanced CSS
+  - Bootstrap
   - Tailwind CSS (currently learning)
 - **JavaScript**
   - Advanced JavaScript (pre ES-6)
 - **jQuery**
-- **Bootstrap**
 
 ### Back-End Development
 - **PHP** (currently learning)
