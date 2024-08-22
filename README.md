@@ -23,11 +23,10 @@ Hello! I'm Arkar Hein, a dedicated web developer with a strong foundation in fro
 ### Back-End Development
 - **PHP** (currently learning)
 - **Laravel** (currently learning)
-- **MySQL** (currently learning)
+- **MySQL**
 
 ## Current Learning Path
 I'm actively learning the following technologies to enhance my back-end development skills:
-- MySQL
 - Tailwind CSS
 - PHP
 - Laravel
