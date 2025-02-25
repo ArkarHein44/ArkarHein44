@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Arkar Hein and a Computer Science Student.</h1>
-<p>Web Developer from Myanmar</p>
+<h1>Hi 👋, I'm Arkar Hein.</h1>
+<p>Computer Science Student and Web Developer from Myanmar.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 
 <p>
