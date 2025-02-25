@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Arkar Hein.</h1>
-<p>Computer Science Student and Web Developer from Myanmar.</p>
+<p>Computer science student and web developer from Myanmar.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 
 <p>
@@ -21,7 +21,7 @@
   <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>  
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>  
   <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>  
-  <a target="_blank" href="https://www.gstatic.com/devrel-devsite/prod/vd2dddc2199cd18ccf014281c77515e1e906f6b98324fd2a8b5fa9e92b09e8018/firebase/images/lockup.svg" style="display: inline-block;"><img src="https://www.gstatic.com/devrel-devsite/prod/vd2dddc2199cd18ccf014281c77515e1e906f6b98324fd2a8b5fa9e92b09e8018/firebase/images/lockup.svg" alt="git" width="" height="42" /></a>  
+  <a target="_blank" href="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" style="display: inline-block;"><img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="git" width="42" height="42" /></a>  
   </p>
 <h2>✒️ Recent Posts</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArkarHein44&show_icons=true&locale=en" alt="ArkarHein44" /></p>
