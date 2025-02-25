@@ -23,6 +23,7 @@
   <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>  
   <a target="_blank" href="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" style="display: inline-block;"><img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="git" width="42" height="42" /></a> 
     <a target="_blank" href="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="git" width="42" height="42" /></a>  
+     <a target="_blank" href="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="git" width="42" height="42" /></a>  
   </p>
 <h2>✒️ Recent Posts</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArkarHein44&show_icons=true&locale=en" alt="ArkarHein44" /></p>
