@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Arkar Hein.</h1>
-<p>Computer science student from Department of Computer Studies - University of Yangon and web developer from Myanmar.</p>
+<p>web developer from Myanmar.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 
 <p>
